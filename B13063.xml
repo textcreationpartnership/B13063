@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation against frauds and deceits vsed in draperie, and for discouerie and preuenting of the same.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13063</idno><idno type="EEBO-CITATION">99892599</idno>
+  <idno type="VID">185746</idno>
+  <idno type="EEBO-PROQUEST">2240918014</idno>
+  
+            <idno type="STC">STC 8999</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.12[19]</idno>
+            <idno type="STC">ESTC S123767</idno>
+            <idno type="PROQUEST">ocm99892599</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892599e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13063)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185746)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C2:3[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation against frauds and deceits vsed in draperie, and for discouerie and preuenting of the same.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>5 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Maiestie: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M.DC.XXXIII. [1633]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Regulation for dyeing, weaving, etc. to remedy defects in statures and to be enforced by commissioners until the next parliament.--STC.</note>
+                  <note>There is apparently a line or two of text missing at the end of sheet 3--STC.</note>
+                  <note>Dated at end: VVestminster: the sixteenth day of April, in the ninth yeere of the reigne of our souereigne Lord Charles ...</note>
+                  <note>Arms 24; Steele notation: and  Peace 2) Maie- 3) Clothiers, 4) the 5) by contrary.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Dyes and dying --  Textile fibers --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Woolen goods industry --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:185746:1"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <opener>
+               <signed>❧ By the King.</signed>
+            </opener>
+            <head>❧ A Proclamation against frauds and de<g ref="char:EOLhyphen"/>ceits vsed in Draperie, and for discouerie and preuenting of the same.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Otwithstanding the many good and wholesome Lawes, and Statutes, made and prouided for the true making of Cloth, of late times many and great abuses haue crept into that Manufacture: for remedie whereof, His Maiestie did by his Commission vnder the great Seale of <hi>England,</hi> bearing date the fourteenth day of <hi>De<g ref="char:EOLhyphen"/>cember,</hi> in the sixth yeere of His Reigne, directed vnto Commissio<g ref="char:EOLhyphen"/>ners therein named, appoint them to call vpon the Iustices of Peace, and other head Officers within the Counties of <hi>Wilts', Glou<g ref="char:EOLhyphen"/>cester, Somerset,</hi> and <hi>Oxon',</hi> and to assist them in the performance of the seuerall trusts in them by the Statutes concerning Draperie reposed, which Commission hath beene in executing by the space of two yeeres past. And it appeareth by the account thereof giuen to His Highnesse, and His Priuy Councell, that by reason of some doubts made concerning some points, &amp; clau<g ref="char:EOLhyphen"/>ses of the said Statutes, (as they are by some interpreted) the same seeme to be deficient for the effectuall reformation of Clothing. His Maiestie intending, that the Cloth of this kingdome may regaine its ancient reputation beyond the Seas, whereby it may be the more readily re<g ref="char:EOLhyphen"/>ceiued and vented in those parts, which cannot bee so well done, as by the true working and making thereof; Hath by the aduice of His Priuie Councell, resolued to renew His said Com<g ref="char:EOLhyphen"/>mission, with supply of such defects as are found therein, and by iust and equall ordinances and constitutions, to supply some defects and omissions in the said Statutes, to preuent frauds and deceits vsed in Drapery; which in time, if preuention be not made, may bring disesteeme
+<pb n="2" facs="tcp:185746:2"/>vpon the Clothes of this Realme, and decay of Draperie, by which a great number of His Maie<g ref="char:EOLhyphen"/>sties people haue their liuelihood, which by His Regall power He commandeth to be duly obser<g ref="char:EOLhyphen"/>ued vntill the end of the first Session of the next Parliament: And then vpon triall of their effects to be made into a Statute law, as hath heretofore in the like case beene vsed and done, or other<g ref="char:EOLhyphen"/>wise altered, as shall be then found conuenient.</p>
+            <p>First therefore His Highnesse will and pleasure is, that no Woolls be boyled with Galles, vn<g ref="char:EOLhyphen"/>lesse they be first made blue with woad or Indico, according as the sadnesse of the colour intended to be made will beare in blue. And that such as after the first day of August next shall spinne any yearne to sel in the market, or for the Cloth-maker in any of the Counties of <hi>Oxon' Wilts' Gloucest'</hi> &amp; the county of the Citie of <hi>Gloucest'</hi> or the Easterne limits of the County of <hi>Somerset</hi> shall make the same in skeynes vpon reeles that shall be all of assize, so as euery reele shall be of two yardes, or one yard, and of no other assize, and shall be of equall widenes in all the parts thereof where the yearne shall bee reeled. And that euery Weauer shall to euery Cloth that hee shall weaue, set the first two letters of his name of Baptisme and Surname, or at the least the first letter of his Sur<g ref="char:EOLhyphen"/>name, and no other marke, And that the Weauer shal redeliuer vnto the Clothier, the thrummes, knots and ends, &amp; all yearne not wouen into the Cloth, and the Clothier shall take in the same thrummes ends and knots, at such price as others will giue for the same, because vnder colour of buying thrummes and such like of the Weauer, the Clothier is robbed of much yearne. And whereas Tuckers and Clothiers doe now vse stone weights for weighing of their Cloth, which being of no certaine contents, because they cannot bee sealed, cause much deceit, His Highnesse pleasure is, and Hee doth hereby command all Tuckers and Clothiers whatsoeuer, where any Cloth is to bee sealed, That they and euery of them before the foure and twentieth day of Iune next, prouide leaden weights, or brasse weights of <hi>Auers du poys</hi> lawfully sealed, and that the Clothiers, Searchers and Ouerseers vse those and no other in weighing any Cloth.</p>
+            <p>And Whereas in diuers places where coloured clothes are milled and dressed, there bee sundry Rackes or Tenters vsed with the lower Barre, which is lawfull to bee vsed for coloured and dressed Clothes, vnder colour whereof the white Clothes are also often strained with the lower barre, contrary to the Statute made in this behalfe in the three and fourtieth yeere of the raigne of the late Queene <hi>Elizabeth,</hi> For the auoyding of this abuse, His Highnesse Commandeth that there shall bee no White Cloth hanged vpon any Racke or Tenter that hath two Barres, al<g ref="char:EOLhyphen"/>though it hang but by one List onely, but that all White Clothes shall bee hanged vpon such Tenters as haue but one Barre, to wit, aboue, and no lower Barre.</p>
+            <p>And whereas by the Statute made in the fift and sixt yeeres of the Reigne of the late King <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the sixth, the vse of Gigmills is forbidden vnder a great penaltie, and yet of late time the same Milles are vsed vnder the name of Mosingmills, wherein the Cloth being stretched, is wrought with the Teazell in the Mill, vpon colour and pretence that they being well vsed may be commodious for Clothing: It is His Highnesse Pleasure and expresse Commandement, That forasmuch as the danger of the abuse is farre greater then the benefit of such toleration can bee; All Mosingmills and Mills by which Clothes may be wrought with the Teazell, of what name soeuer, shall bee taken downe before Midsommer next, and none other erected or vsed after that
+<pb n="3" facs="tcp:185746:3"/>time. And whereas there is great abuse found to bee practised in the Markes of the Clothiers, some that make worse Cloth vsing the Markes of others that make best, or making of so slight a difference from it, as the buyer cannot easily discerne it: His Highnesse willeth and comman<g ref="char:EOLhyphen"/>deth, that euery Clothier shall haue one seuerall marke for his Cloth, and shall vse that one marke onelie for all the time of his Clothing, without altering or changing the same, and no man shall giue the same marke which another vseth, though with addition or difference or change of the colour: And where at present seuerall men vse the same marke, such of them as haue longest vsed the same shall continue the vse thereof, and the others shall betake themselues to the vse of new markes not vsed by others: And whereas diuers Statutes made before the fourth yeere of the Reigne of the late King <hi>Iames</hi> His Maiesties father of blessed memory, touching the length breadth and weight of Clothes, are repealed by a Statute made in the said fourth yeere, and therein is declared what length, breadth and weight the Clothes of seuerall Counties shall con<g ref="char:EOLhyphen"/>teine, His Maiestie commandeth that euery Searcher to each Cloth that he shal search shall affixe at either end of the Cloth a seale of lead, wherein shall bee truely and plainely expressed the length and breadth of the same Cloth measured wett out of the water after the full milling thereof, together with the iust weight thereof being fully and home dried, and the name of Baptisme and Sirname of the Searcher at large and legibly stamped, and after such seale so affixed, the same Cloth shall not bee eftsoones put into the mill, or thickned, and that before such time as the Sear<g ref="char:EOLhyphen"/>cher puts on his seale the Clothier that makes the Cloth shall set on his seale, expressing aswell the breadth, as the length and weight in manner aforesaid, and put on the word <hi>Faultie,</hi> if there be cause: And that the Searcher shall put on but two seales vpon a Cloth, whereof one to be at each end of the Cloth, as aforesaid.</p>
+            <p>And His Highnesse will and pleasure is, and he doth hereby command, that the searching and sealing of Clothes for their length, breadth and weight and sealing the word <hi>Faultie,</hi> where there is cause, shall bee now wholly done by the Clothier, Searcher and ouerseer of the Cloth, which was by the Statutes anciently done by the Clothier and Aulnager: And whereas the Lawes then made, did require vpon great penalties, that no Cloth should be folded or tacked by the workeman, nor bee offered to Sale, nor be Transported by the Merchant, before the Aulnage seale was thereunto affixed.</p>
+            <p>His Maiesties expresse will and pleasure is, that from henceforth no workeman shall presume to fold or tacke together any Cloth, That no Cloth be by any offered to Sale, nor be Transported by any Merchant or other person whatsoeuer, before the seale of the Ouerseers or Searchers be thereunto affixed, And that all White Clothes which shall not bee so sealed, wheresoeuer the same shall bee found, His Highnesse willeth that His Commissioners appointed in that behalfe, shall Arrest, and Seize, and bring the same to Triall, but no Fee shall bee taken for doing therof: And for that the Searcher and Ouerseer are at great labour and charge, And by the ancient Statutes there was two pence vpon a Cloth allowed by the Clothier to the Searcher, for Clothes searched, in any Citie, Borough or Towne Corporate, which allowance yet continu<g ref="char:EOLhyphen"/>eth in the Citie of <hi>Worcester,</hi> It is now thought fit by His Maiestie, that in regard of the farre grea<g ref="char:EOLhyphen"/>ter labour and charge imposed on the Searcher and Ouerseer, then anciently hath beene,</p>
+            <pb n="4" facs="tcp:185746:4"/>
+            <p>And His Highnesse willeth and commandeth, that the same allowance of two pence vpon the Cloth searched and Registred shall bee made by the Clothier vnto the Searcher, or Ouerseer, wheresoeuer the Cloth shall bee searched, as well within the Corporations as without: And if any Clothier dwelling out of a Citie, Borough, or Towne Corporate shall refuse to make this allowance, then his Cloth shall not bee searched nor sealed by the Searcher or Ouerseer of that place, till it bee brought to some Citie, Borough, or Towne Corporate. And His Maiestie also willeth and ordaineth that euery Searcher shall keepe a Booke, and therein cause to be written a remembrance of euery Cloth searched by him, with the name of the owner of the cloth, the con<g ref="char:EOLhyphen"/>tents and weight thereof, and the time of searching, to the end the Aulnager may be truely an<g ref="char:EOLhyphen"/>swered the duty of Aulnage and Subsidie vpon euery Cloth he also shall put on his seale to euery Cloth made within the Counties aforesaid, or any of them, But the Cloth shall not bee sealed by the Aulnager before the Clothier and Searcher, or Ouerseer, shall first haue set on their seales in forme aforesaid; neither shall the Aulnager research the Cloth sealed as aforesaid, it being prohi<g ref="char:EOLhyphen"/>bited by the Law. And whereas it is by the Statutes now in force ordained, that the word <hi>Faulty</hi> shall be stamped vpon the seale of the Clothier, Searcher, and Ouerseer, to signifie that the Cloth is wasted in the Mill or Squally, Bandy, Rowye, Holely, and the like; but the Searchers and Ouerseers vse to stampe this word <hi>Faulty</hi> to the most Clothes: yea, euen to such as haue none of those faults, whereby they hope to bee out of danger if they erre wittingly or neg<g ref="char:EOLhyphen"/>ligently in the stamping of the length, weight, or breadth: And when those clothes are offered to sale in the parts beyond the Sea, and also within the Realme, they are often refused, which hath caused sundry Merchants of Cloth to take the Seales from the Clothes to which they were affixed.</p>
+            <p>Therefore it is His Maiesties pleasure and commandement, that from hencefoorth the sayd word <hi>Faultie,</hi> shall not be stamped neither by the Clothier, nor by the Searcher or Ouerseer, for that the Cloth holds not his due content in length, breadth, or weight, but onely when it is false made, wasted in the Mill, Squally, Bandy, Rowy, Holely, or the like. And none of His Ma<g ref="char:EOLhyphen"/>iesties Subiects that shall bee possessed of any such Clothes sealed, (that shall sell the same againe on this side or beyond the Sea) shall take any Seale from the Cloth.</p>
+            <p>And His Maiestie doth also hereby will and ordaine, that all such white <hi>Worcester</hi> Clothes and others of the like making, as shall be milled in <hi>Gloucestershire,</hi> shall not bee stamped, nor reputed narrow, if they be found to be sixe Quarters and halfe a Quarter of a Yard in breadth, cleane Cloth within the Lists, as is now allowed at <hi>Worcester,</hi> and well accepted by the Forreigne Merchants that buy vp this kinde of Cloth, but that such Clothes may be freely put to Sale, Any Statute heretofore made to the contrary notwithstanding.</p>
+            <p>And for the better execution of this His Highnesse Proclamation, His Highnesse doeth hereby require and command the Iustices of Peace within the said seuerall Counties, that they doe their best endeauours, to see that as well these Ordinances, as the Lawes and Statutes (the Premisses concerning not contrary to the same) bee duely obserued and kept: Of all which His Maiestie intendeth to require a particular account, And therefore commandeth the same to be duely executed and strictly obserued by all persons, whom by their Offices or places it shall
+<pb facs="tcp:185746:5"/>conterne, vpon such paines and penalties, as by the Lawes and Statutes of this Realme, or by his Maiesties Prerogatiue Royall, and such punishments in His high Court of Starre-cham<g ref="char:EOLhyphen"/>ber, or elsewhere, as can or may bee inflicted vpon contemners and violaters of His Royall plea<g ref="char:EOLhyphen"/>sure and commands, Requiring and commanding all His Maiesties Iustices, Iudges, Maiors, Sheriffes, Bailiffes, Iustices of Peace, Constables, and other head Officers, that they diligently attend the execution of His Highnesse pleasure before declared, and be aiding, helping and as<g ref="char:EOLhyphen"/>sisting to His Maiesties Commissioners assigned, and to bee assigned, to take care of the execution of this Proclamation, or the Lawes and Statutes concerning Clothing, and their deputies, and to the Searchers and Ouerseers in their seuerall places, as need shall require; Comman<g ref="char:EOLhyphen"/>ding also the sayd Commissioners that they certifie Our Attourney generall for the time being, of the Offenders, and of the qualities and natures of their Offences, whereby Our said At<g ref="char:EOLhyphen"/>tourney may proceed against them according to their demerits, as they will answere the contrary at their vtmost perill.</p>
+            <closer>
+               <dateline>Giuen at Our Palace of Westminster: <date>The sixteenth day of April, in the ninth yeere of the Reigne of our Souereigne Lord CHARLES by the grace of God King of England, Scotland, France and Ireland, Defender of the Faith, &amp;c.</date>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most Excellent MAIESTIE: and by the Assignes of Iohn Bill. M.DC.XXXIII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
